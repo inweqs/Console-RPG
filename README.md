@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-  https://github.com/inweqs/Console-RPG.git
+     https://github.com/inweqs/Console-RPG.git
    ```
 2. Откройте проект в **IntelliJ IDEA**.
 3. Запустите главный класс (содержащий метод `main`).
